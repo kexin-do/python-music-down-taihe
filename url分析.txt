@@ -1,0 +1,69 @@
+root:601427384
+jpg:601427385
+tag:601427388 
+mp3:601427398
+m4a:601427401 
+
+
+http://musicapi.taihe.com/v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&callback=jQuery172008170548114307463_1533020002460&songid=601427388&from=web&_=1533020005568
+
+
+http://musicapi.taihe.com/v1/restserver/ting?method=baidu.ting.song.playAAC&from=web&songid=358801
+
+http://y.taihe.com/app/song/infolist?song_id=450065
+
+
+{"songinfo": 
+	{"resource_type_ext": "0", "si_presale_flag": "0",
+	"resource_type": "0", "mv_provider": "1100000000",
+	"del_status": "0", "collect_num": 625, "hot": "3008",
+	"res_reward_flag": "1", "sound_effect": "", "title": "\u6f02\u6d6e\u5730\u94c1",
+	"language": "\u56fd\u8bed", "play_type": 0, "country": "\u5185\u5730", 
+	"biaoshi": "lossless", 
+	"bitrate_fee": 
+		"{\"0\":\"0|0\",\"1\":\"0|0\"}", "artist_1000_1000": "http://qukufile2.qianqian.com/data2/pic/246707754/246707754.jpg",
+		"is_first_publish": 0, "artist_640_1136": "", "charge": 0, "copy_type": "1",
+		"share_url": "http://music.baidu.com/song/358801",
+		"has_mv_mobile": 1, "album_no": "3", "is_charge": "", "special_type": 0,
+		"has_filmtv": "0", "pic_huge": "http://qukufile2.qianqian.com/data2/pic/c51acebe9779c4fef0c0ed6e45edc06b/557334886/557334886.jpg@s_1,w_1000,h_1000",
+		"ting_uid": "1025", "expire": 36000, "havehigh": 2,
+		"si_proxycompany": "\u534e\u5b87\u4e16\u535a\u97f3\u4e50\u6587\u5316\uff08\u5317 \u4eac\uff09\u6709\u9650\u516c\u53f8-\u592a\u5408\u9ea6\u7530", 
+		"compose": "\u6613\u5bb6\u626c  ", "toneid": "600902000006646764", "area": "0", "info": "", 
+		"artist_500_500": "http://qukufile2.qianqian.com/data2/pic/246707754/246707754.jpg@s_0,w_500", "multiterminal_copytype": "",
+		"has_mv": 1, "total_listen_nums": "51389", "song_id": "358801", "piao_id": "0", "high_rate": "320",
+		"artist": "\u674e\u5b87\u6625", 
+		"artist_list": 
+			[{"avatar_mini": "http://qukufile2.qianqian.com/data2/pic/246707754/246707754.jpg@s_0,w_20",
+			"avatar_s300": "http://qukufile2.qianqian.com/data2/pic/246707754/246707754.jpg@s_0,w_300",
+			"ting_uid": "1025", "del_status": "0",
+			"avatar_s500": "http://qukufile2.qianqian.com/data2/pic/246707754/246707754.jpg@s_0,w_500",
+			"artist_name": "\u674e\u5b87\u6625",
+			"avatar_small": "http://qukufile2.qianqian.com/data2/pic/246707754/246707754.jpg@s_0,w_48",
+			"avatar_s180": "http://qukufile2.qianqian.com/data2/pic/246707754/246707754.jpg@s_0,w_180",
+			"artist_id": "1"}],
+		"comment_num": 22, "compress_status": "0", "original": 0, "artist_480_800": "", 
+		"relate_status": "0", "learn": 0, "bitrate": "96,224,128,320", 
+		"pic_big": "http://qukufile2.qianqian.com/data2/pic/c51acebe9779c4fef0c0ed6e45edc06b/557334886/557334886.jpg@s_1,w_150,h_150",
+		"album_1000_1000": "http://qukufile2.qianqian.com/data2/pic/c51acebe9779c4fef0c0ed6e45edc06b/557334886/557334886.jpg@s_1,w_1000,h_1000", 
+		"pic_singer": "", "songwriting": "Simon Perry\u2223Niklas Pettersson \u2223 Mikael Albertsson", 
+		"album_500_500": "http://qukufile2.qianqian.com/data2/pic/c51acebe9779c4fef0c0ed6e45edc06b/557334886/557334886.jpg@s_1,w_500,h_500",
+		"song_source": "web", "album_id": "172948", "share_num": 5, "aliasname": "", "artist_id": "1",
+		"korean_bb_song": "0", "all_rate": "96,128,224,320,flac", "author": "\u674e\u5b87\u6625",
+		"all_artist_id": "1", "listen_nums": "378", "publishtime": "2007-11-02", "versions": "",
+		"all_artist_ting_uid": "1025", "res_encryption_flag": "0", "file_duration": "230",
+		"pic_radio": "http://qukufile2.qianqian.com/data2/pic/c51acebe9779c4fef0c0ed6e45edc06b/557334886/557334886.jpg@s_1,w_300,h_300",
+		"distribution": "0000000000,0000000000,0000000000,0000000000,0000000000,0000000000,0000000000,0000000000,0000000000,0000000000", 
+		"lrclink": "http://qukufile2.qianqian.com/data2/lrc/3bbf3ecf9fc058fb1f6c0b6f65b73b2b/589664392/589664392.lrc", 
+		"pic_small": "http://qukufile2.qianqian.com/data2/pic/c51acebe9779c4fef0c0ed6e45edc06b/557334886/557334886.jpg@s_1,w_90,h_90", 
+		"album_title": "\u6211\u7684", "original_rate": "", 
+		"pic_premium": "http://qukufile2.qianqian.com/data2/pic/c51acebe9779c4fef0c0ed6e45edc06b/557334886/557334886.jpg@s_1,w_500,h_500"},
+	"error_code": 22000, 
+	"bitrate": 
+		{"show_link": "http://zhangmenshiting.qianqian.com/data2/music/af94ebbffeffce4ace5c25d36dfcc8df/599553105/599553105.m4a?xcode=05b5f46b842985781e0a87f01dbb9fb5", 
+		"free": 1, "replay_gain": "0.000000", "song_file_id": 599553105, "file_size": 2820814, 
+		"file_extension": "m4a", "file_duration": 230, "file_format": "aac", "file_bitrate": 96,
+		"file_link": "http://zhangmenshiting.qianqian.com/data2/music/af94ebbffeffce4ace5c25d36dfcc8df/599553105/599553105.m4a?xcode=05b5f46b842985781e0a87f01dbb9fb5",
+		"original": 0
+		}
+}
+		
